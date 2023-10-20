@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zhangcixuan/Library/CloudStorage/OneDrive-个人/UCLA/CS-32/CS32 Programming Assignment 1",
+      "program": "/Users/zhangcixuan/Library/CloudStorage/OneDrive-个人/UCLA/CS-32/CS32 Programming Assignment 1/build/Debug/outDebug"
+    }
+  ]
+}
